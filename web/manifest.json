@@ -1,6 +1,6 @@
 {
-    "name": "band_names",
-    "short_name": "band_names",
+    "name": "bandNames",
+    "short_name": "bandNames",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

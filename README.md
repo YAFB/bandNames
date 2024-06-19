@@ -1,4 +1,4 @@
-# band_names
+# bandNames
 
 A new Flutter project.
 
